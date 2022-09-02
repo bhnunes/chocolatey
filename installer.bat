@@ -1,0 +1,1 @@
+choco install -y vscode python powerautomatedesktop git postman notepadplusplus
